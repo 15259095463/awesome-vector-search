@@ -30,6 +30,7 @@ def writeReadme():
     annoyDate = getUpdateTime("spotify","annoy")
     OpenSearchDate = getUpdateTime("opensearch-project","OpenSearch")
     VespaDate = getUpdateTime("vespa-engine","vespa")
+    vectoraiDate = getUpdateTime("vector-ai","vectorai")
 
     head = """
 # awesome-vector-search
@@ -58,6 +59,7 @@ This project collects vector search-related products, cloud services and impleme
 | [Weaviate](https://github.com/semi-technologies/weaviate) | Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. | [yes](https://github.com/semi-technologies/weaviate) | """ + weaviateDate + """ |
 | [OpenSearch](https://opensearch.org/) | OpenSearch is a community-driven, Apache 2.0-licensed open source search and analytics suite that makes it easy to ingest, search, visualize, and analyze data.  | [yes](https://github.com/opensearch-project/OpenSearch) | """ + OpenSearchDate + """ |
 | [Vespa](https://vespa.ai/) | Vespa is a full-featured text search engine and supports both regular text search and fast approximate vector search (ANN).  | [yes](https://github.com/vespa-engine/vespa) | """ + VespaDate + """ |
+| [vectorai](https://getvectorai.com/) | An API powered by machine learning to help you implement search, recommendation, prediction and more with complex data. | [yes](https://github.com/vector-ai/vectorai) | """ + vectoraiDate + """ |
 
 
 ## Library 
