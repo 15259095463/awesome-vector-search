@@ -60,6 +60,7 @@ This project collects vector search-related products, cloud services and impleme
 | [OpenSearch](https://opensearch.org/) | OpenSearch is a community-driven, Apache 2.0-licensed open source search and analytics suite that makes it easy to ingest, search, visualize, and analyze data.  | [yes](https://github.com/opensearch-project/OpenSearch) | """ + OpenSearchDate + """ |
 | [Vespa](https://vespa.ai/) | Vespa is a full-featured text search engine and supports both regular text search and fast approximate vector search (ANN).  | [yes](https://github.com/vespa-engine/vespa) | """ + VespaDate + """ |
 | [vectorai](https://getvectorai.com/) | An API powered by machine learning to help you implement search, recommendation, prediction and more with complex data. | [yes](https://github.com/vector-ai/vectorai) | """ + vectoraiDate + """ |
+| [pinecone](https://www.pinecone.io/) | The Pinecone vector database makes it easy to build high-performance vector search applications.  | yes |
 
 
 ## Library 
