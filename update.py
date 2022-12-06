@@ -32,6 +32,7 @@ def writeReadme():
     VespaDate = getUpdateTime("vespa-engine","vespa")
     vectoraiDate = getUpdateTime("vector-ai","vectorai")
     AquilaDBDate = getUpdateTime("Aquila-Network","AquilaDB")
+    PASEDate = getUpdateTime("alipay","PASE")
 
     head = """
 # awesome-vector-search
@@ -66,6 +67,7 @@ This project collects vector search-related products, cloud services and impleme
 | [mqDB](https://moqi.com.cn) | The first complete unstructured data processing technology stack based on vector and graph representation. | no |
 | [Proxima](https://damo.alibaba.com/) | It is a vector retrieval engine. | no |
 | [AquilaDB](https://github.com/Aquila-Network/AquilaDB) | Vector database for storing feature vectors and JSON metadata for approximate nearest neighbor search. | [yes](https://github.com/Aquila-Network/AquilaDB) | """ + AquilaDBDate + """ |
+| [PASE](https://github.com/alipay/PASE) | PASE (PostgreSQL ANN search extension) is a high-performance vector retrieval index plug-in developed for PostgreSQL database.  | [yes](https://github.com/alipay/PASE) | """ + PASEDate + """ |
 
 ## Library 
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
