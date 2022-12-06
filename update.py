@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#update -*- coding: utf-8 -*-
 import urllib3
 from lxml import etree
 import html
@@ -28,7 +28,7 @@ def writeReadme():
     weaviateDate = getUpdateTime("semi-technologies","weaviate")
     faissDate = getUpdateTime("facebookresearch","faiss")
     annoyDate = getUpdateTime("spotify","annoy")
-    OpenSearchDate = getUpdateTime("spotify","OpenSearch")
+    OpenSearchDate = getUpdateTime("opensearch-project","OpenSearch")
 
     head = """
 # awesome-vector-search
@@ -55,7 +55,8 @@ This project collects vector search-related products, cloud services and impleme
 | [Jina](https://jina.ai/) | Jina is a MLOps framework that empowers anyone to build cross-modal and multi-modal applications on the cloud. It uplifts a PoC into a production-ready service. Jina handles the infrastructure complexity, making advanced solution engineering and cloud-native technologies accessible to every developer. | [yes](https://github.com/jina-ai/jina) | """ + jinaDate + """ |
 | [Qdrant](https://qdrant.tech/) | Vector Search Engine for the next generation of AI applications. | [yes](https://github.com/qdrant/qdrant) | """ + qdrantDate + """ |
 | [Weaviate](https://github.com/semi-technologies/weaviate) | Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. | [yes](https://github.com/semi-technologies/weaviate) | """ + weaviateDate + """ |
-| [OpenSearch](https://opensearch.org/docs/latest/search-plugins/knn/approximate-knn/) | OpenSearch is a community-driven, Apache 2.0-licensed open source search and analytics suite that makes it easy to ingest, search, visualize, and analyze data.  | [yes](https://github.com/opensearch-project) | """ + OpenSearchDate + """ |
+| [OpenSearch](https://opensearch.org/) | OpenSearch is a community-driven, Apache 2.0-licensed open source search and analytics suite that makes it easy to ingest, search, visualize, and analyze data.  | [yes](https://github.com/opensearch-project) | """ + OpenSearchDate + """ |
+
 
 ## Library 
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
