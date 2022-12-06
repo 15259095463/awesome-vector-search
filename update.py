@@ -61,6 +61,7 @@ This project collects vector search-related products, cloud services and impleme
 | [Vespa](https://vespa.ai/) | Vespa is a full-featured text search engine and supports both regular text search and fast approximate vector search (ANN).  | [yes](https://github.com/vespa-engine/vespa) | """ + VespaDate + """ |
 | [vectorai](https://getvectorai.com/) | An API powered by machine learning to help you implement search, recommendation, prediction and more with complex data. | [yes](https://github.com/vector-ai/vectorai) | """ + vectoraiDate + """ |
 | [pinecone](https://www.pinecone.io/) | The Pinecone vector database makes it easy to build high-performance vector search applications.  | yes |
+| [OmiBASE](http://www.hzlh.com/coreTechnology/4.cshtml) | Vector database (Om-iBASE) is based on intelligent algorithm to extract the features of the content to be stored, and transform them into multidimensional values with size definition, feature description and spatial location for vectorization storage database.  | yes |
 
 
 ## Library 
