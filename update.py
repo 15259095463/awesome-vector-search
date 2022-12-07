@@ -37,6 +37,7 @@ def writeReadme():
     nmslibDate = getUpdateTime("nmslib","nmslib")
     SPTAGDate = getUpdateTime("microsoft","SPTAG")
     autofaissDate = getUpdateTime("criteo","autofaiss")
+    proximaDate = getUpdateTime("alibaba","proxima")
 
     head = """
 # awesome-vector-search
@@ -53,6 +54,8 @@ This project collects vector search-related products, cloud services and impleme
 
 该项目收集向量检索相关的产品、云服务与实现库，对于每个开源产品，会在其后面标注最近的更新时间帮助大家快速判断该项目是否活跃。
 
+*排名不分先后 <br/> In no particular order*
+
 ## Products
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
 |:-----|:--------:|:----------:|:-----------:|
@@ -68,7 +71,7 @@ This project collects vector search-related products, cloud services and impleme
 | [pinecone](https://www.pinecone.io/) | The Pinecone vector database makes it easy to build high-performance vector search applications.  | no |
 | [OmiBASE](http://www.hzlh.com/coreTechnology/4.cshtml) | Vector database (Om-iBASE) is based on intelligent algorithm to extract the features of the content to be stored, and transform them into multidimensional values with size definition, feature description and spatial location for vectorization storage database.  | no |
 | [mqDB](https://moqi.com.cn) | The first complete unstructured data processing technology stack based on vector and graph representation. | no |
-| [Proxima](https://damo.alibaba.com/) | It is a vector retrieval engine. | no |
+| [Proxima](https://proximabilin.github.io/docs/) | Proxima is a vector retrieval kernel developed by Alibaba Dharma Institute Systems AI Lab. Currently, its core capabilities are widely used in many businesses within Alibaba and Ant Group, such as Taobao search and recommendation, Ant Face Payment, Youku video search, Ali Mama ad search, etc. Proxima is also deeply integrated in various big data and database products, such as Ali Cloud Hologres and search engine Elastic Search. Proxima is also deeply integrated into various big data and database products, such as AliCloud Hologres, search engines Elastic Search and ZSearch, and offline engine MaxCompute (ODPS), to provide vector search capabilities.. | [yes](https://github.com/alibaba/proxima) | """ + proximaDate + """ |
 | [AquilaDB](https://github.com/Aquila-Network/AquilaDB) | Vector database for storing feature vectors and JSON metadata for approximate nearest neighbor search. | [yes](https://github.com/Aquila-Network/AquilaDB) | """ + AquilaDBDate + """ |
 | [PASE](https://github.com/alipay/PASE) | PASE (PostgreSQL ANN search extension) is a high-performance vector retrieval index plug-in developed for PostgreSQL database.  | [yes](https://github.com/alipay/PASE) | """ + PASEDate + """ |
 
