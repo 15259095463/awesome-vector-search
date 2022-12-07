@@ -34,6 +34,7 @@ def writeReadme():
     AquilaDBDate = getUpdateTime("Aquila-Network","AquilaDB")
     PASEDate = getUpdateTime("alipay","PASE")
     ScaNNDate = getUpdateTime("google-research","ScaNN")
+    nmslibDate = getUpdateTime("nmslib","nmslib")
 
     head = """
 # awesome-vector-search
@@ -76,6 +77,7 @@ This project collects vector search-related products, cloud services and impleme
 | [Faiss](https://faiss.ai/) | Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. | [yes](https://github.com/facebookresearch/faiss) | """ + faissDate + """ |
 | [Annoy](https://github.com/spotify/annoy) | Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data. | [yes](https://github.com/spotify/annoy) | """ + annoyDate + """ |
 | [ScaNN](https://github.com/google-research/google-research/tree/master/scann) | ScaNN is a vector similarity search library. | [yes](https://github.com/google-research/google-research/tree/master/scann) | """ + ScaNNDate + """ |
+| [nmslib](https://pypi.org/project/nmslib/) | Non-Metric Space Library (NMSLIB) is an efficient cross-platform similarity search library and a toolkit for evaluation of similarity search methods. | [yes](https://github.com/nmslib/nmslib) | """ + nmslibDate + """ |
 
 ___
 ## Contributors
