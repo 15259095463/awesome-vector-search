@@ -35,6 +35,7 @@ def writeReadme():
     PASEDate = getUpdateTime("alipay","PASE")
     ScaNNDate = getUpdateTime("google-research","ScaNN")
     nmslibDate = getUpdateTime("nmslib","nmslib")
+    SPTAGDate = getUpdateTime("microsoft","SPTAG")
 
     head = """
 # awesome-vector-search
@@ -78,6 +79,7 @@ This project collects vector search-related products, cloud services and impleme
 | [Annoy](https://github.com/spotify/annoy) | Annoy (Approximate Nearest Neighbors Oh Yeah) is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data. | [yes](https://github.com/spotify/annoy) | """ + annoyDate + """ |
 | [ScaNN](https://github.com/google-research/google-research/tree/master/scann) | ScaNN is a vector similarity search library. | [yes](https://github.com/google-research/google-research/tree/master/scann) | """ + ScaNNDate + """ |
 | [nmslib](https://pypi.org/project/nmslib/) | Non-Metric Space Library (NMSLIB) is an efficient cross-platform similarity search library and a toolkit for evaluation of similarity search methods. | [yes](https://github.com/nmslib/nmslib) | """ + nmslibDate + """ |
+| [SPTAG](https://github.com/microsoft/SPTAG) | SPTAG (Space Partition Tree And Graph) is a distributed approximate Nearest neighbor domain search (ANN) library, providing high-quality vector index construction, search and distributed online service toolkit for large-scale vector search scenarios. | [yes](https://github.com/microsoft/SPTAG) | """ + SPTAGDate + """ |
 
 ___
 ## Contributors
