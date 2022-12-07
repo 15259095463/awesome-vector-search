@@ -13,6 +13,8 @@ This project collects vector search-related products, cloud services and impleme
 
 该项目收集向量检索相关的产品、云服务与实现库，对于每个开源产品，会在其后面标注最近的更新时间帮助大家快速判断该项目是否活跃。
 
+*排名不分先后 <br/> In no particular order*
+
 ## Products
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
 |:-----|:--------:|:----------:|:-----------:|
@@ -23,12 +25,12 @@ This project collects vector search-related products, cloud services and impleme
 | [Qdrant](https://qdrant.tech/) | Vector Search Engine for the next generation of AI applications. | [yes](https://github.com/qdrant/qdrant) | 2022-12-06T16:59:55Z |
 | [Weaviate](https://github.com/semi-technologies/weaviate) | Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. | [yes](https://github.com/semi-technologies/weaviate) | 2022-12-06T20:23:21Z |
 | [OpenSearch](https://opensearch.org/) | OpenSearch is a community-driven, Apache 2.0-licensed open source search and analytics suite that makes it easy to ingest, search, visualize, and analyze data.  | [yes](https://github.com/opensearch-project/OpenSearch) | 2022-12-06T18:09:27Z |
-| [Vespa](https://vespa.ai/) | Vespa is a full-featured text search engine and supports both regular text search and fast approximate vector search (ANN).  | [yes](https://github.com/vespa-engine/vespa) | 2022-12-07T10:06:39Z |
+| [Vespa](https://vespa.ai/) | Vespa is a full-featured text search engine and supports both regular text search and fast approximate vector search (ANN).  | [yes](https://github.com/vespa-engine/vespa) | 2022-12-07T10:22:39Z |
 | [vectorai](https://getvectorai.com/) | An API powered by machine learning to help you implement search, recommendation, prediction and more with complex data. | [yes](https://github.com/vector-ai/vectorai) | 2022-12-07T01:00:22Z |
 | [pinecone](https://www.pinecone.io/) | The Pinecone vector database makes it easy to build high-performance vector search applications.  | no |
 | [OmiBASE](http://www.hzlh.com/coreTechnology/4.cshtml) | Vector database (Om-iBASE) is based on intelligent algorithm to extract the features of the content to be stored, and transform them into multidimensional values with size definition, feature description and spatial location for vectorization storage database.  | no |
 | [mqDB](https://moqi.com.cn) | The first complete unstructured data processing technology stack based on vector and graph representation. | no |
-| [Proxima](https://damo.alibaba.com/) | It is a vector retrieval engine. | no |
+| [Proxima](https://proximabilin.github.io/docs/) | Proxima is a vector retrieval kernel developed by Alibaba Dharma Institute Systems AI Lab. Currently, its core capabilities are widely used in many businesses within Alibaba and Ant Group, such as Taobao search and recommendation, Ant Face Payment, Youku video search, Ali Mama ad search, etc. Proxima is also deeply integrated in various big data and database products, such as Ali Cloud Hologres and search engine Elastic Search. Proxima is also deeply integrated into various big data and database products, such as AliCloud Hologres, search engines Elastic Search and ZSearch, and offline engine MaxCompute (ODPS), to provide vector search capabilities.. | [yes](https://github.com/alibaba/proxima) | 2022-10-24T03:00:26Z |
 | [AquilaDB](https://github.com/Aquila-Network/AquilaDB) | Vector database for storing feature vectors and JSON metadata for approximate nearest neighbor search. | [yes](https://github.com/Aquila-Network/AquilaDB) | 2022-08-30T20:02:46Z |
 | [PASE](https://github.com/alipay/PASE) | PASE (PostgreSQL ANN search extension) is a high-performance vector retrieval index plug-in developed for PostgreSQL database.  | [yes](https://github.com/alipay/PASE) | 2022-08-26T06:07:52Z |
 
