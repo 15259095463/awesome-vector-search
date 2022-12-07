@@ -33,7 +33,7 @@ def writeReadme():
     vectoraiDate = getUpdateTime("vector-ai","vectorai")
     AquilaDBDate = getUpdateTime("Aquila-Network","AquilaDB")
     PASEDate = getUpdateTime("alipay","PASE")
-    ScaNNDate = getUpdateTime("google-research","ScaNN")
+    ScaNNDate = getUpdateTime("google-research","google-research")
     nmslibDate = getUpdateTime("nmslib","nmslib")
     SPTAGDate = getUpdateTime("microsoft","SPTAG")
     autofaissDate = getUpdateTime("criteo","autofaiss")
