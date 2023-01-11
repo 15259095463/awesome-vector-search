@@ -32,7 +32,7 @@ This project collects vector search-related products, cloud services and impleme
 | [mqDB](https://moqi.com.cn) | The first complete unstructured data processing technology stack based on vector and graph representation. | no |
 | [Proxima](https://proximabilin.github.io/docs/) | Proxima is a vector retrieval kernel developed by Alibaba Dharma Institute Systems AI Lab. Currently, its core capabilities are widely used in many businesses within Alibaba and Ant Group, such as Taobao search and recommendation, Ant Face Payment, Youku video search, Ali Mama ad search, etc. Proxima is also deeply integrated in various big data and database products, such as Ali Cloud Hologres and search engine Elastic Search. | [yes](https://github.com/alibaba/proxima) | ![Proxima](https://flat.badgen.net/github/last-commit/alibaba/proxima) |
 | [AquilaDB](https://github.com/Aquila-Network/AquilaDB) | Vector database for storing feature vectors and JSON metadata for approximate nearest neighbor search. | [yes](https://github.com/Aquila-Network/AquilaDB) | ![AquilaDB](https://flat.badgen.net/github/last-commit/Aquila-Network/AquilaDB) |
-| [PASE](https://github.com/alipay/PASE) | PASE (PostgreSQL ANN search extension) is a high-performance vector retrieval index plug-in developed for PostgreSQL database.  | [yes](https://github.com/alipay/PASE) | ![PASE](https://flat.badgen.net/github/last-commit/alipay/goldfish) |
+| [PASE](https://github.com/alipay/PASE) | PASE (PostgreSQL ANN search extension) is a high-performance vector retrieval index plug-in developed for PostgreSQL database.  | [yes](https://github.com/alipay/PASE) | ![PASE](https://flat.badgen.net/github/last-commit/alipay/A2-efficient-automated-attacker-for-boosting-adversarial-training) |
 
 
 ## Library 
