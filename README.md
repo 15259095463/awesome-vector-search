@@ -36,7 +36,7 @@ This project collects vector search-related products, cloud services and impleme
 | [embeddinghub](https://www.featureform.com/embeddinghub/) | Embeddings intend to capture the semantics of the inputs they were derived from, subsequently getting shared and reused for improved learning across machine learning models. Embeddinghub lets you achieve this in a streamlined, intuitive way.  | [yes](https://github.com/featureform/featureform) | ![embeddinghub](https://flat.badgen.net/github/last-commit/featureform/embeddinghub) |
 | [Relevance AI](https://relevance.ai/vectors/) | Relevance AI is the easiest no-code platform built to give you AI superpowers to tag, search and analyze data faster in minutes.  | no |
 | [Elasticsearch](https://www.elastic.co/cn/elasticsearch/) | Elasticsearch is a distributed, RESTful style search and data analysis engine designed to solve an ever-expanding range of use cases.  | [yes](https://github.com/elastic/elasticsearch) | ![Elasticsearch](https://flat.badgen.net/github/last-commit/elastic/elasticsearch) |
-| [vald](https://vald.vdaas.org/) | Vald is a highly scalable distributed fast approximate nearest neighbor (ANN) dense vector search engine,which is designed and implemented based on Cloud-Native architecture.  | [yes](https://github.com/vdaas/vald) | ![vald](https://flat.badgen.net/github/last-commit/vdaas/vald) |
+| [vald](https://vald.vdaas.org/) | Vald is a highly scalable distributed fast approximate nearest neighbor (ANN) dense vector search engine,which is designed and implemented based on Cloud-Native architecture.  | [yes](https://github.com/vdaas/vald) | ![vald](https://flat.badgen.net/github/last-commit/vdaas/vald-client-go) |
 
 
 ## Library 
