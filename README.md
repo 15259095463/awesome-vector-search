@@ -51,7 +51,7 @@ This project collects vector search-related products, cloud services and impleme
 | [NGT](https://github.com/yahoojapan/NGT) | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data | [yes](https://github.com/yahoojapan/NGT) | ![NGT](https://flat.badgen.net/github/last-commit/yahoojapan/fullock) |
 | [PyNNDescent](https://pypi.org/project/pynndescent/) | A Python nearest neighbor descent for approximate nearest neighbors. | [yes](https://github.com/lmcinnes/pynndescent) | ![PyNNDescent](https://flat.badgen.net/github/last-commit/lmcinnes/pynndescent) |
 | [TorchPQ](https://github.com/DeMoriarty/TorchPQ) | TorchPQ is a python library for Approximate nearest neighbor search with product quantization on GPU in pytorch and cuda. | [yes](https://github.com/DeMoriarty/TorchPQ) | ![TorchPQ](https://flat.badgen.net/github/last-commit/DeMoriarty/fast_pytorch_kmeans) |
-| [hora](https://github.com/hora-search/hora) | Hora is a efficient approximate nearest neighbor search algorithm collections library written in Rust. | [yes](https://github.com/hora-search/hora) | ![hora](https://flat.badgen.net/github/last-commit/hora-search/hora-ios) |
+| [hora](https://github.com/hora-search/hora) | Hora is a efficient approximate nearest neighbor search algorithm collections library written in Rust. | [yes](https://github.com/hora-search/hora) | ![hora](https://flat.badgen.net/github/last-commit/hora-search/ann-benchmarks) |
 
 ___
 ## Contributors
