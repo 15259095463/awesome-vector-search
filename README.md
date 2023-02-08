@@ -36,6 +36,7 @@ This project collects vector search-related products, cloud services and impleme
 | [Relevance AI](https://relevance.ai/vectors/) | Relevance AI is the easiest no-code platform built to give you AI superpowers to tag, search and analyze data faster in minutes.  | no |
 | [Elasticsearch](https://www.elastic.co/cn/elasticsearch/) | Elasticsearch is a distributed, RESTful style search and data analysis engine designed to solve an ever-expanding range of use cases.  | [yes](https://github.com/elastic/elasticsearch) | ![Elasticsearch](https://flat.badgen.net/github/last-commit/elastic/beats) |
 | [vald](https://vald.vdaas.org/) | Vald is a highly scalable distributed fast approximate nearest neighbor (ANN) dense vector search engine,which is designed and implemented based on Cloud-Native architecture.  | [yes](https://github.com/vdaas/vald) | ![vald](https://flat.badgen.net/github/last-commit/vdaas/vald-client-node) |
+| [pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector) | Pgvector is an open-source vector similarity search which is a new PostgreSQL extension.  | [yes](https://github.com/pgvector/pgvector) | ![pgvector](https://flat.badgen.net/github/last-commit/pgvector/pgvector) |
 
 
 ## Library 
@@ -47,6 +48,10 @@ This project collects vector search-related products, cloud services and impleme
 | [nmslib](https://pypi.org/project/nmslib/) | Non-Metric Space Library (NMSLIB) is an efficient cross-platform similarity search library and a toolkit for evaluation of similarity search methods. | [yes](https://github.com/nmslib/nmslib) | ![nmslib](https://flat.badgen.net/github/last-commit/nmslib/nmslib) |
 | [SPTAG](https://github.com/microsoft/SPTAG) | SPTAG (Space Partition Tree And Graph) is a distributed approximate Nearest neighbor domain search (ANN) library, providing high-quality vector index construction, search and distributed online service toolkit for large-scale vector search scenarios. | [yes](https://github.com/microsoft/SPTAG) | ![SPTAG](https://flat.badgen.net/github/last-commit/microsoft/SynapseML) |
 | [autofaiss](https://criteo.github.io/autofaiss/) | This lib creates quantized indices for similarity search on dense vectors. Once the index is created with this library, you can use deepr_knn to deploy you index and use it through an API. | [yes](https://github.com/criteo/autofaiss) | ![autofaiss](https://flat.badgen.net/github/last-commit/criteo/autofaiss) |
+| [NGT](https://github.com/yahoojapan/NGT) | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data | [yes](https://github.com/yahoojapan/NGT) | ![NGT](https://flat.badgen.net/github/last-commit/yahoojapan/fullock) |
+| [PyNNDescent](https://pypi.org/project/pynndescent/) | A Python nearest neighbor descent for approximate nearest neighbors. | [yes](https://github.com/lmcinnes/pynndescent) | ![PyNNDescent](https://flat.badgen.net/github/last-commit/lmcinnes/pynndescent) |
+| [TorchPQ](https://github.com/DeMoriarty/TorchPQ) | TorchPQ is a python library for Approximate nearest neighbor search with product quantization on GPU in pytorch and cuda. | [yes](https://github.com/DeMoriarty/TorchPQ) | ![TorchPQ](https://flat.badgen.net/github/last-commit/DeMoriarty/fast_pytorch_kmeans) |
+| [hora](https://github.com/hora-search/hora) | Hora is a efficient approximate nearest neighbor search algorithm collections library written in Rust. | [yes](https://github.com/hora-search/hora) | ![hora](https://flat.badgen.net/github/last-commit/hora-search/hora-ios) |
 
 ___
 ## Contributors
