@@ -37,6 +37,7 @@ This project collects vector search-related products, cloud services and impleme
 | [Elasticsearch](https://www.elastic.co/cn/elasticsearch/) | Elasticsearch is a distributed, RESTful style search and data analysis engine designed to solve an ever-expanding range of use cases.  | [yes](https://github.com/elastic/elasticsearch) | ![Elasticsearch](https://flat.badgen.net/github/last-commit/elastic/beats) |
 | [vald](https://vald.vdaas.org/) | Vald is a highly scalable distributed fast approximate nearest neighbor (ANN) dense vector search engine,which is designed and implemented based on Cloud-Native architecture.  | [yes](https://github.com/vdaas/vald) | ![vald](https://flat.badgen.net/github/last-commit/vdaas/vald-client-node) |
 | [pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector) | Pgvector is an open-source vector similarity search which is a new PostgreSQL extension.  | [yes](https://github.com/pgvector/pgvector) | ![pgvector](https://flat.badgen.net/github/last-commit/pgvector/pgvector) |
+| [Chroma](https://www.trychroma.com/) | Chroma is an AI-native open-source embedding database.  | [yes](https://github.com/chroma-core/chroma) | ![Chroma](https://flat.badgen.net/github/last-commit/chroma-core/chroma-cumber) |
 
 
 ## Library 
