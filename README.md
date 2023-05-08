@@ -36,8 +36,9 @@ This project collects vector search-related products, cloud services and impleme
 | [Relevance AI](https://relevance.ai/vectors/) | Relevance AI is the easiest no-code platform built to give you AI superpowers to tag, search and analyze data faster in minutes.  | no |
 | [Elasticsearch](https://www.elastic.co/cn/elasticsearch/) | Elasticsearch is a distributed, RESTful style search and data analysis engine designed to solve an ever-expanding range of use cases.  | [yes](https://github.com/elastic/elasticsearch) | ![Elasticsearch](https://flat.badgen.net/github/last-commit/elastic/beats) |
 | [vald](https://vald.vdaas.org/) | Vald is a highly scalable distributed fast approximate nearest neighbor (ANN) dense vector search engine,which is designed and implemented based on Cloud-Native architecture.  | [yes](https://github.com/vdaas/vald) | ![vald](https://flat.badgen.net/github/last-commit/vdaas/vald-client-node) |
-| [pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector) | Pgvector is an open-source vector similarity search which is a new PostgreSQL extension.  | [yes](https://github.com/pgvector/pgvector) | ![pgvector](https://flat.badgen.net/github/last-commit/pgvector/pgvector) |
 | [Chroma](https://www.trychroma.com/) | Chroma is an AI-native open-source embedding database.  | [yes](https://github.com/chroma-core/chroma) | ![Chroma](https://flat.badgen.net/github/last-commit/chroma-core/chroma-cumber) |
+| [voy](https://www.npmjs.com/package/voy-search) | A WASM vector similarity search written in Rust | [yes](https://github.com/tantaraio/voy) | ![voy](https://flat.badgen.net/github/last-commit/tantaraio/voy) |
+| [lance](https://eto.ai/#product) | Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning.  | [yes](https://github.com/eto-ai/lance) | ![lance](https://flat.badgen.net/github/last-commit/eto-ai/lance) |
 
 
 ## Library 
@@ -53,6 +54,15 @@ This project collects vector search-related products, cloud services and impleme
 | [PyNNDescent](https://pypi.org/project/pynndescent/) | A Python nearest neighbor descent for approximate nearest neighbors. | [yes](https://github.com/lmcinnes/pynndescent) | ![PyNNDescent](https://flat.badgen.net/github/last-commit/lmcinnes/pynndescent) |
 | [TorchPQ](https://github.com/DeMoriarty/TorchPQ) | TorchPQ is a python library for Approximate nearest neighbor search with product quantization on GPU in pytorch and cuda. | [yes](https://github.com/DeMoriarty/TorchPQ) | ![TorchPQ](https://flat.badgen.net/github/last-commit/DeMoriarty/fast_pytorch_kmeans) |
 | [hora](https://github.com/hora-search/hora) | Hora is a efficient approximate nearest neighbor search algorithm collections library written in Rust. | [yes](https://github.com/hora-search/hora) | ![hora](https://flat.badgen.net/github/last-commit/hora-search/ann-benchmarks) |
+
+
+## Plugin 
+| **Name** |  **Introduction**  | **Open source** | **Last updated** |
+|:-----|:--------:|:----------:|:-----------:|
+| [pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector) | Pgvector is an open-source vector similarity search which is a new PostgreSQL extension.  | [yes](https://github.com/pgvector/pgvector) | ![pgvector](https://flat.badgen.net/github/last-commit/pgvector/pgvector) |
+| [pgvecto.rs](https://tensorchord.ai/) | pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is written in Rust and based on pgrx.  | [yes](https://github.com/tensorchord/pgvecto.rs) | ![pgvecto.rs](https://flat.badgen.net/github/last-commit/tensorchord/pgvecto.rs) |
+| [usearch](https://www.unum.cloud/) | Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram. | [yes](https://github.com/unum-cloud/usearch) | ![usearch](https://flat.badgen.net/github/last-commit/unum-cloud/usearch) |
+
 
 ___
 ## Contributors
