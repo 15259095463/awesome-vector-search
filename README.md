@@ -62,6 +62,22 @@ This project collects vector search-related products, cloud services and impleme
 | [pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector) | Pgvector is an open-source vector similarity search which is a new PostgreSQL extension.  | [yes](https://github.com/pgvector/pgvector) | ![pgvector](https://flat.badgen.net/github/last-commit/pgvector/pgvector) |
 | [pgvecto.rs](https://tensorchord.ai/) | pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is written in Rust and based on pgrx.  | [yes](https://github.com/tensorchord/pgvecto.rs) | ![pgvecto.rs](https://flat.badgen.net/github/last-commit/tensorchord/pgvecto.rs) |
 | [usearch](https://www.unum.cloud/) | Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram. | [yes](https://github.com/unum-cloud/usearch) | ![usearch](https://flat.badgen.net/github/last-commit/unum-cloud/usearch) |
+| [elastiknn](https://elastiknn.com/) | Elasticsearch Plugin for Nearest Neighbor SearchPermalink. | [yes](https://github.com/alexklibisz/elastiknn) | ![usearch](https://flat.badgen.net/github/last-commit/alexklibisz/elastiknn) |
+
+
+## Solution
+| **Name** |  **Introduction**  | **Open source** | **Last updated** |
+|:-----|:--------:|:----------:|:-----------:|
+| [Semantic vector search](https://www.griddynamics.com/solutions/semantic-vector-search) | Semantic vector search is a deep learning approach in which a model learns from shopper behavior to encode products and queries in a shared vector space – sort of like the way groceries are organized in aisles and shelves in a physical store. | no |
+
+## Cloud Services
+| **Name** |  **Introduction**  | **Open source** | **Last updated** |
+|:-----|:--------:|:----------:|:-----------:|
+| [Vertex AI Matching Engine](https://cloud.google.com/vertex-ai/docs/matching-engine/overview) | Vertex AI Matching Engine provides the industry's leading large-scale, low-latency vector database. These vector databases are often referred to as vector similarity matching or approximate nearest neighbor (ANN) services. | no |
+| [AnalyticDB MySQL](https://help.aliyun.com/product/92664.html) | The cloud-native data warehouse AnalyticDB MySQL version (ADB, the original analytical database MySQL version), is a massive data real-time high-concurrency online analysis cloud computing service independently developed by Alibaba, enabling you to conduct instant multidimensional analysis perspective and business exploration for hundreds of billions of data in milliseconds. | no |
+| [Hologres](https://help.aliyun.com/product/113622.html) | Hologres is a one-stop real-time data warehouse engine that supports real-time writing, real-time updating and real-time analysis of massive data, supports standard SQL (compatible with PostgreSQL protocol), supports petabyte data multidimensional analysis (OLAP) and Ad Hoc analysis. Support high concurrency and low latency online data service (Serving), deep integration with MaxCompute, Flink, DataWorks, to provide off-line integration of the full stack warehouse solution. | no |
+| [RDS PostgreSQL](https://tech.antfin.com/docs/2/96715) | Alibaba Cloud Relational Database Service (RDS) is a stable, reliable, elastic and scalable online database service. | no |
+| [ZSearch](https://developer.aliyun.com/article/739926?spm=a2c6h.14164896.0.0.752e2796p85jz0) | ZSearch is a general purpose search platform based on ElasticSearch. | no |
 
 
 ___
