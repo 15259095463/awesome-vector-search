@@ -41,7 +41,6 @@ This project collects vector search-related products, cloud services and impleme
 | [lance](https://eto.ai/#product) | Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning.  | [yes](https://github.com/eto-ai/lance) | ![lance](https://flat.badgen.net/github/last-commit/eto-ai/lance) |
 
 
-
 ## Library 
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
 |:-----|:--------:|:----------:|:-----------:|
