@@ -41,6 +41,7 @@ This project collects vector search-related products, cloud services and impleme
 | [lance](https://eto.ai/#product) | Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning.  | [yes](https://github.com/eto-ai/lance) | ![lance](https://flat.badgen.net/github/last-commit/eto-ai/lance) |
 
 
+
 ## Library 
 | **Name** |  **Introduction**  | **Open source** | **Last updated** |
 |:-----|:--------:|:----------:|:-----------:|
@@ -63,6 +64,7 @@ This project collects vector search-related products, cloud services and impleme
 | [pgvecto.rs](https://tensorchord.ai/) | pgvecto.rs is a Postgres extension that provides vector similarity search functions. It is written in Rust and based on pgrx.  | [yes](https://github.com/tensorchord/pgvecto.rs) | ![pgvecto.rs](https://flat.badgen.net/github/last-commit/tensorchord/pgvecto.rs) |
 | [usearch](https://www.unum.cloud/) | Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram. | [yes](https://github.com/unum-cloud/usearch) | ![usearch](https://flat.badgen.net/github/last-commit/unum-cloud/usearch) |
 | [elastiknn](https://elastiknn.com/) | Elasticsearch Plugin for Nearest Neighbor SearchPermalink. | [yes](https://github.com/alexklibisz/elastiknn) | ![usearch](https://flat.badgen.net/github/last-commit/alexklibisz/elastiknn) |
+| [pg_embedding](https://github.com/neondatabase/pg_embedding) | Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL. | [yes](https://github.com/neondatabase/pg_embedding) | ![pg_embedding](https://flat.badgen.net/github/last-commit/neondatabase/pg_embedding) |
 
 
 ## Solution
